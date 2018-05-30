@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto Slab', serif;
-  background-color: black;
-  color: white;
+  background-color: #FEFCFC;
+  color: black;
 }
 
 .flex-container {
@@ -31,11 +31,32 @@ body {
 
 #letters a {
   text-decoration: none;
-  color: white;
+  color: black;
   border: 1px solid white;
   padding: 10px;
 }
 
-.heading {
+.hint {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 3em;
+}
 
+.your-hint-is {
+  font-size: .85em;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.section-one {
+  height: 50vw;
+  width: 100vw;
+}
+
+.section-two {
+  height: 40vw;
+  width: 100vw;
+}
+
+.github-logo {
+  width: 45px;
 }
