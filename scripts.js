@@ -1,4 +1,3 @@
-
 class Game {
   constructor() {
     var game = this;
@@ -18,19 +17,19 @@ class Game {
         ["excellence", "the state of being we are all in pursuit of"],
         ["flexibility", "it's good to have this; to be adaptable, to go with the flow"],
         ["tulip", "a lovely flower from Holland"],
-        ["napkin", "a thing you wipe your face with while eating, a tidier of food messes"],
+        ["napkin", "a thing you wipe your face with while eating"],
         ["posture", "mine is terrible, and my back always hurts"],
         ["cat", "the world's most sacred animal, imo"],
         ["table", "a surface on which to drink prosecco or play cards"],
         ["tiles", "line your kitchen or bathroom floor with these"],
-        ["lightening", "you def don't want to be struck with this"],
+        ["lightening", "you def don't want to be struck by this"],
         ["miller", "b l a n k  high life"],
         ["high", "when they go low..."],
         ["life", "it's like a box of chocolates"],
         ["wizards", "what we feel like when we get our code to work"],
         ["late", "call me what you want, just don't call me (this) for dinner"],
         ["digital", "modern remix of madonna's material girl"],
-        ["future", "i hope these generations aren't screwed"],
+        ["future", "these generations might be in trouble"],
         ["visualize", "to make a person place or thing appear in your mind"],
         ["meowing", "my cat is doing this right now"],
         ["united", "the states of america are apparently this"],
